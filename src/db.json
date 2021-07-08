@@ -1,0 +1,16 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Hello World",
+            "author": "Jaspreet Kaur",
+            "body": "Example of blog application"
+        },
+        {
+            "id": 2,
+            "title": "Hello Universe",
+            "author": "Dinithi Roshali",
+            "body": "Post2 here"
+        }
+    ]
+}
